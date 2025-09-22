@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model checkpoints / data (if any)
+*.pkl
+*.pth
+*.h5
+*.joblib
