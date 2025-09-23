@@ -28,7 +28,7 @@ This project provides a RESTful API that processes natural language text and ext
       {
         "subject": "Apple Inc.",
         "predicate": "announced",
-        "object": "new product launch"
+        "object": "product launch"
       }
     ]
   }
@@ -38,17 +38,17 @@ This project provides a RESTful API that processes natural language text and ext
 
 ```
 Lab 1/
-├── src/
-│   ├── main.py              # FastAPI application and endpoints
-│   ├── predict.py           # Core prediction logic and BIO tagging
-│   ├── model.py             # BERT model definition
-│   ├── load_weights.py      # Model weight downloading utility
 ├── model/
 │   └── BERT_BIO_Tagging_model.pth  # Pre-trained model weights
-├── assets/                  # Documentation images
-├── requirements.txt         # Python dependencies
-├── run.py                   # Application runner
-└── README.md                # This file
+├── src/
+│   ├── load_weights.py             # Model weight downloading utility
+│   ├── main.py                     # FastAPI application and endpoints
+│   ├── model.py                    # BERT model definition
+│   ├── predict.py                  # Core prediction logic and BIO tagging
+├── assets/                         # Documentation images
+├── requirements.txt                # Python dependencies
+├── run.py                          # Application runner
+└── README.md                       # This file
 ```
 
 ## Installation & Setup
