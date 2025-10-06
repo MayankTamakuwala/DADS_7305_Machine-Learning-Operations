@@ -12,17 +12,17 @@ from src.lab import load_data, data_preprocessing, build_save_model, load_model_
 
 # Define default arguments for your DAG
 default_args = {
-    'owner': 'your_name',
-    'start_date': datetime(2025, 1, 15),
+    'owner': "Mayank's Workflow",
+    'start_date': datetime.now(),
     'retries': 0,  # Number of retries in case of task failure
     'retry_delay': timedelta(minutes=5),  # Delay before retries
 }
 
-# Create a DAG instance named 'Airflow_Lab1' with the defined default arguments
+# Create a DAG instance named "Mayank's Iris DAG" with the defined default arguments
 with DAG(
-    'Airflow_Lab1',
+    "Airflow_Mayank_Iris_DAG",
     default_args=default_args,
-    description='Dag example for Lab 1 of Airflow series',
+    description='DAG for iris dataset classification using Logistic Regression',
     catchup=False,
 ) as dag:
 
@@ -39,18 +39,18 @@ with DAG(
         op_args=[load_data_task.output],
     )
 
-    # Task to build and save a model, depends on 'data_preprocessing_task'
+    # Task to build and save a Logistic Regression model, depends on 'data_preprocessing_task'
     build_save_model_task = PythonOperator(
         task_id='build_save_model_task',
         python_callable=build_save_model,
-        op_args=[data_preprocessing_task.output, "model.sav"],
+        op_args=[data_preprocessing_task.output, "logistic_regression_model.sav"],
     )
 
-    # Task to load a model using the 'load_model_elbow' function, depends on 'build_save_model_task'
+    # Task to load and evaluate the model using the 'load_model_elbow' function, depends on 'build_save_model_task'
     load_model_task = PythonOperator(
         task_id='load_model_task',
         python_callable=load_model_elbow,
-        op_args=["model.sav", build_save_model_task.output],
+        op_args=["logistic_regression_model.sav", build_save_model_task.output],
     )
 
     # Set task dependencies

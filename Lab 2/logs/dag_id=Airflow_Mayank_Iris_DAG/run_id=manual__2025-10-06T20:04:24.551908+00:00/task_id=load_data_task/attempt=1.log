@@ -1,0 +1,20 @@
+{"timestamp":"2025-10-06T20:04:28.791040Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2025-10-06T20:04:28.791590Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/airflow.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-10-06T20:04:31.202737Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.203726Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.203861Z","level":"info","event":"Current task name:load_data_task","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.203929Z","level":"info","event":"Dag name:Airflow_Mayank_Iris_DAG","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.204018Z","level":"info","event":"Debug 1","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.207520Z","level":"info","event":"Debug 2","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.208224Z","level":"info","event":"Debug 3","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.208972Z","level":"info","event":"Debug 4","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.209149Z","level":"info","event":"Debug 5","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.215181Z","level":"info","event":"Debug 6","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.215398Z","level":"info","event":"Debug 7","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.215480Z","level":"info","event":"Debug 8","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.215961Z","level":"info","event":"Debug 9","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.216099Z","level":"info","event":"Done. Returned value was: /opt/airflow/dags/src/../data/iris_data.csv","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":218}
+{"timestamp":"2025-10-06T20:04:31.216266Z","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('0199bb20-0f8f-718d-a87b-12cc34113f46'), task_id='load_data_task', dag_id='Airflow_Mayank_Iris_DAG', run_id='manual__2025-10-06T20:04:24.551908+00:00', try_number=1, dag_version_id=UUID('0199bb1e-d639-7c1f-b926-b9778c40d42e'), map_index=-1, hostname='8d0fda9ccd60', context_carrier={}, task=<Task(PythonOperator): load_data_task>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2025, 10, 6, 20, 4, 26, 133575, tzinfo=datetime.timezone.utc), end_date=None, state=<TaskInstanceState.RUNNING: 'running'>, is_mapped=False, rendered_map_index=None)","logger":"task","filename":"task_runner.py","lineno":1352}
+{"timestamp":"2025-10-06T20:04:31.252684Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.253004Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2025-10-06T20:04:31.253232Z","level":"info","event":"Task operator:<Task(PythonOperator): load_data_task>","logger":"task.stdout"}

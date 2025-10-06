@@ -1,0 +1,50 @@
+{
+  "test_accuracy": 1.0,
+  "training_accuracy": 0.9,
+  "sample_results": [
+    {
+      "sample": 1,
+      "true_class": "setosa",
+      "predicted_class": "setosa",
+      "confidence": 0.8797028683787572
+    },
+    {
+      "sample": 2,
+      "true_class": "setosa",
+      "predicted_class": "setosa",
+      "confidence": 0.8204866167857402
+    },
+    {
+      "sample": 3,
+      "true_class": "setosa",
+      "predicted_class": "setosa",
+      "confidence": 0.8685356095791813
+    },
+    {
+      "sample": 4,
+      "true_class": "setosa",
+      "predicted_class": "setosa",
+      "confidence": 0.8474633433214938
+    },
+    {
+      "sample": 5,
+      "true_class": "setosa",
+      "predicted_class": "setosa",
+      "confidence": 0.8953747526996344
+    }
+  ],
+  "predictions": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "test_targets": [
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}
