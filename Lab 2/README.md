@@ -19,7 +19,7 @@ This will automatically:
 - Install necessary dependencies (pandas, scikit-learn)
 - Start all Airflow services
 
-Once running, access the Airflow UI at `http://localhost:8080` and look for the "Airflow_Mayank_Iris_DAG" in the DAGs list.
+Once running, access the Airflow UI at `http://localhost:8080` and look for the `Airflow_Mayank_Iris_DAG` in the DAGs list.
 
 ### ML Model
 
