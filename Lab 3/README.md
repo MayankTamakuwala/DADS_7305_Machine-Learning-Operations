@@ -1,4 +1,4 @@
-## Lab 3 – Simple Iris Regression
+## Lab 3 – Simple Iris Regression with DVC
 
 This lab caches the Iris dataset locally and trains a linear regression model to predict `sepal_length`. The goal is to keep the dataset under version control with DVC while experimenting with data changes.
 
