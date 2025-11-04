@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/95ca66cdd7f545ec9ce972e62b7fde74/artifacts
+end_time: 1762222765901
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95ca66cdd7f545ec9ce972e62b7fde74
+run_name: whimsical-hound-583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222756399
+status: 3
+tags: []
+user_id: mayanktamakuwala

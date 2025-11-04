@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/2c6b5eda652c4dd1bc6dcdcc5de6f2cc/artifacts
+end_time: 1762221598264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c6b5eda652c4dd1bc6dcdcc5de6f2cc
+run_name: rare-shrike-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221589312
+status: 3
+tags: []
+user_id: mayanktamakuwala

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/7c08a6c2719748c0872ab4f05d798c4d/artifacts
+end_time: 1762222779000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c08a6c2719748c0872ab4f05d798c4d
+run_name: worried-dog-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222769477
+status: 3
+tags: []
+user_id: mayanktamakuwala

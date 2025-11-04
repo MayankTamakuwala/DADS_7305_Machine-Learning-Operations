@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/642c4d55da704a2d938280e57fb687b5/artifacts
+end_time: 1762221498223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 642c4d55da704a2d938280e57fb687b5
+run_name: languid-bird-22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221488910
+status: 3
+tags: []
+user_id: mayanktamakuwala

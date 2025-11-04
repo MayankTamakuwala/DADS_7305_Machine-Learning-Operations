@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/8943b9492f9f43adb795b1a01b63ed08/artifacts
+end_time: 1762222776079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8943b9492f9f43adb795b1a01b63ed08
+run_name: upset-doe-531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222766306
+status: 3
+tags: []
+user_id: mayanktamakuwala

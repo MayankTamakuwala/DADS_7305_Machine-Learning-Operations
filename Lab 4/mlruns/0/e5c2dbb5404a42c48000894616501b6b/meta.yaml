@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/e5c2dbb5404a42c48000894616501b6b/artifacts
+end_time: 1762221483436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5c2dbb5404a42c48000894616501b6b
+run_name: clumsy-moose-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221474029
+status: 3
+tags: []
+user_id: mayanktamakuwala

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/ec2e6a00a24645a7bafd6e83c5201b50/artifacts
+end_time: 1762219931195
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec2e6a00a24645a7bafd6e83c5201b50
+run_name: untuned_random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762219930626
+status: 3
+tags: []
+user_id: mayanktamakuwala

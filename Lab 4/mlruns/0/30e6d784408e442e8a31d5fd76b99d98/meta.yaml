@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/30e6d784408e442e8a31d5fd76b99d98/artifacts
+end_time: 1762221542865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 30e6d784408e442e8a31d5fd76b99d98
+run_name: bouncy-cub-749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221533944
+status: 3
+tags: []
+user_id: mayanktamakuwala

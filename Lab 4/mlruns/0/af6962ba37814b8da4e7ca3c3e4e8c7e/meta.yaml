@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/af6962ba37814b8da4e7ca3c3e4e8c7e/artifacts
+end_time: 1762221507080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af6962ba37814b8da4e7ca3c3e4e8c7e
+run_name: incongruous-ray-266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221497607
+status: 3
+tags: []
+user_id: mayanktamakuwala

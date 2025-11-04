@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/236a3e1c433944ed8ad2d02a9defdfe6/artifacts
+end_time: 1762221517853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 236a3e1c433944ed8ad2d02a9defdfe6
+run_name: crawling-pig-258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221508502
+status: 3
+tags: []
+user_id: mayanktamakuwala

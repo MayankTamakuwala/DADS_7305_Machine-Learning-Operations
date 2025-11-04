@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/08b5be0ddf4645f89d9b336d01422daf/artifacts
+end_time: 1762221522656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08b5be0ddf4645f89d9b336d01422daf
+run_name: trusting-kit-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221513622
+status: 3
+tags: []
+user_id: mayanktamakuwala

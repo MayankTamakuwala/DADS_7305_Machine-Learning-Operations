@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/b3c5872a29d54befade06cf73ff380af/artifacts
+end_time: 1762222733734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3c5872a29d54befade06cf73ff380af
+run_name: angry-asp-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222724426
+status: 3
+tags: []
+user_id: mayanktamakuwala

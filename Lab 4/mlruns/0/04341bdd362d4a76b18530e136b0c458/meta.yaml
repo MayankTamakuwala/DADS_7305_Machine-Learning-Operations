@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/04341bdd362d4a76b18530e136b0c458/artifacts
+end_time: 1762221515875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04341bdd362d4a76b18530e136b0c458
+run_name: mysterious-fish-103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221506327
+status: 3
+tags: []
+user_id: mayanktamakuwala

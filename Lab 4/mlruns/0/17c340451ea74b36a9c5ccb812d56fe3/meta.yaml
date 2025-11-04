@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/17c340451ea74b36a9c5ccb812d56fe3/artifacts
+end_time: 1762222821096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17c340451ea74b36a9c5ccb812d56fe3
+run_name: xgboost_models
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222662959
+status: 3
+tags: []
+user_id: mayanktamakuwala

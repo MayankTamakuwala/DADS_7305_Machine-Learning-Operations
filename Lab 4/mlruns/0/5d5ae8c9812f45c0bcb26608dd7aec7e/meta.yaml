@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/5d5ae8c9812f45c0bcb26608dd7aec7e/artifacts
+end_time: 1762221550951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d5ae8c9812f45c0bcb26608dd7aec7e
+run_name: rumbling-trout-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221542143
+status: 3
+tags: []
+user_id: mayanktamakuwala

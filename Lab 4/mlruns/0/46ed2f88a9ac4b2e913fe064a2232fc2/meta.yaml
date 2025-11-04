@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/46ed2f88a9ac4b2e913fe064a2232fc2/artifacts
+end_time: 1762222703110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46ed2f88a9ac4b2e913fe064a2232fc2
+run_name: languid-foal-953
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222693186
+status: 3
+tags: []
+user_id: mayanktamakuwala

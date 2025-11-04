@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/750e8c01b68b444987b4a3fc48c778ae/artifacts
+end_time: 1762221478797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 750e8c01b68b444987b4a3fc48c778ae
+run_name: chill-auk-145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221469421
+status: 3
+tags: []
+user_id: mayanktamakuwala

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/d5293472d5bc48ada1cde88463bce01c/artifacts
+end_time: 1762221578511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5293472d5bc48ada1cde88463bce01c
+run_name: nosy-whale-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221569385
+status: 3
+tags: []
+user_id: mayanktamakuwala

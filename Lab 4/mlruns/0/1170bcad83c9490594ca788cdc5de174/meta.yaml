@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/1170bcad83c9490594ca788cdc5de174/artifacts
+end_time: 1762221556197
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1170bcad83c9490594ca788cdc5de174
+run_name: melodic-wasp-131
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221547174
+status: 3
+tags: []
+user_id: mayanktamakuwala

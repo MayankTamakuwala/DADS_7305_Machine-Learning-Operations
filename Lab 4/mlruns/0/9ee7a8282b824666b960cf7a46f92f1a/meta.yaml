@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/9ee7a8282b824666b960cf7a46f92f1a/artifacts
+end_time: 1762222726817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ee7a8282b824666b960cf7a46f92f1a
+run_name: nebulous-zebra-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222717190
+status: 3
+tags: []
+user_id: mayanktamakuwala

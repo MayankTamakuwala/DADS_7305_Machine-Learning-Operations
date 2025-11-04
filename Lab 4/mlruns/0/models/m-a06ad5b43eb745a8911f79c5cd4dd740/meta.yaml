@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/models/m-a06ad5b43eb745a8911f79c5cd4dd740/artifacts
+creation_timestamp: 1762219328585
+experiment_id: '0'
+last_updated_timestamp: 1762219328607
+model_id: m-a06ad5b43eb745a8911f79c5cd4dd740
+model_type: null
+name: random_forest_model
+source_run_id: 7ec7cd6dacae41a39a60c742e8a775a2
+status: 2
+status_message: null

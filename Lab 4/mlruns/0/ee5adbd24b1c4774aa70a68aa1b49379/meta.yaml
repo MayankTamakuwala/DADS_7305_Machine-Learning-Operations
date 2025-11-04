@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/ee5adbd24b1c4774aa70a68aa1b49379/artifacts
+end_time: 1762221600527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee5adbd24b1c4774aa70a68aa1b49379
+run_name: thoughtful-bass-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221592114
+status: 3
+tags: []
+user_id: mayanktamakuwala

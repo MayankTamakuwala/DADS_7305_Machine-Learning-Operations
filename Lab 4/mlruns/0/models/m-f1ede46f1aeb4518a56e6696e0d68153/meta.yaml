@@ -1,0 +1,10 @@
+artifact_location: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/models/m-f1ede46f1aeb4518a56e6696e0d68153/artifacts
+creation_timestamp: 1762221577557
+experiment_id: '0'
+last_updated_timestamp: 1762221582110
+model_id: m-f1ede46f1aeb4518a56e6696e0d68153
+model_type: null
+name: model
+source_run_id: eac782d768594460afb3065272b28d29
+status: 2
+status_message: null

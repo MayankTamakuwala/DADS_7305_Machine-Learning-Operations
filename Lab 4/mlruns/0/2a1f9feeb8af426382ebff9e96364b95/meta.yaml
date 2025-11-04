@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/2a1f9feeb8af426382ebff9e96364b95/artifacts
+end_time: 1762222814681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a1f9feeb8af426382ebff9e96364b95
+run_name: traveling-roo-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222804291
+status: 3
+tags: []
+user_id: mayanktamakuwala

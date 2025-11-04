@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/7de5ec2ad48543aa8b75ee2905a1cd78/artifacts
+end_time: 1762221491390
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7de5ec2ad48543aa8b75ee2905a1cd78
+run_name: bittersweet-wasp-858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221481985
+status: 3
+tags: []
+user_id: mayanktamakuwala

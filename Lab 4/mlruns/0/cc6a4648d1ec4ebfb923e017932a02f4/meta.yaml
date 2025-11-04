@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/cc6a4648d1ec4ebfb923e017932a02f4/artifacts
+end_time: 1762222768008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc6a4648d1ec4ebfb923e017932a02f4
+run_name: traveling-sow-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222758653
+status: 3
+tags: []
+user_id: mayanktamakuwala

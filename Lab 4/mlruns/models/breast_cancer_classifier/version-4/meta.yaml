@@ -1,0 +1,15 @@
+creation_timestamp: 1762219522193
+current_stage: Production
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1762219537243
+model_id: m-a272ccb092ae46729c4ca7d39fceee9b
+name: breast_cancer_classifier
+run_id: 58ba6e27ab124817be15af02637e869d
+run_link: null
+source: models:/m-a272ccb092ae46729c4ca7d39fceee9b
+status: READY
+status_message: null
+storage_location: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/models/m-a272ccb092ae46729c4ca7d39fceee9b/artifacts
+user_id: null
+version: 4

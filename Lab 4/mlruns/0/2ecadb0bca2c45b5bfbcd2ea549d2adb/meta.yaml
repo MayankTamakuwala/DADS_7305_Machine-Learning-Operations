@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/2ecadb0bca2c45b5bfbcd2ea549d2adb/artifacts
+end_time: 1762221519831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ecadb0bca2c45b5bfbcd2ea549d2adb
+run_name: calm-squid-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221510679
+status: 3
+tags: []
+user_id: mayanktamakuwala

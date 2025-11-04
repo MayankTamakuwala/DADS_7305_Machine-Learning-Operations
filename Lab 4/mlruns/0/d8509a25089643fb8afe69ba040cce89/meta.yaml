@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/d8509a25089643fb8afe69ba040cce89/artifacts
+end_time: 1762222680151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8509a25089643fb8afe69ba040cce89
+run_name: polite-eel-127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222670384
+status: 3
+tags: []
+user_id: mayanktamakuwala

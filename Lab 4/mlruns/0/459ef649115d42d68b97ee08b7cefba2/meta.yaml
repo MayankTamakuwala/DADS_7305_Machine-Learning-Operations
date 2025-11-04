@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/459ef649115d42d68b97ee08b7cefba2/artifacts
+end_time: 1762221555105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 459ef649115d42d68b97ee08b7cefba2
+run_name: popular-squid-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221545538
+status: 3
+tags: []
+user_id: mayanktamakuwala

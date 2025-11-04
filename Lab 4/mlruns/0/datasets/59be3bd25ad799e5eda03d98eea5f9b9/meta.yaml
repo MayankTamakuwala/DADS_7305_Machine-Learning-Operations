@@ -1,0 +1,10 @@
+digest: f078f38c
+name: validation
+profile: '{"features_shape": [114, 30], "features_size": 3420, "features_nbytes":
+  13680}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 30]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "mayanktamakuwala", "mlflow.source.name": "/Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab
+  4/.venv/lib/python3.12/site-packages/pyspark/python/lib/pyspark.zip/pyspark/daemon.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

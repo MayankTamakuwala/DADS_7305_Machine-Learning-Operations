@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/5659041b71ac4a499468dc0b301a4e45/artifacts
+end_time: 1762222701708
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5659041b71ac4a499468dc0b301a4e45
+run_name: beautiful-vole-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222692016
+status: 3
+tags: []
+user_id: mayanktamakuwala

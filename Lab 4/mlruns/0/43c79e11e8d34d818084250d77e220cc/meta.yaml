@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/43c79e11e8d34d818084250d77e220cc/artifacts
+end_time: 1762221531481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43c79e11e8d34d818084250d77e220cc
+run_name: dashing-dolphin-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221522353
+status: 3
+tags: []
+user_id: mayanktamakuwala

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/e02ca7fa28b34102ac23319a0049e61b/artifacts
+end_time: 1762222728368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e02ca7fa28b34102ac23319a0049e61b
+run_name: receptive-zebra-605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222718817
+status: 3
+tags: []
+user_id: mayanktamakuwala

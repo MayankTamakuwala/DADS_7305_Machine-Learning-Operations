@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/eb9e9099c5f64dc0988de28b45bceed3/artifacts
+end_time: 1762221541514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb9e9099c5f64dc0988de28b45bceed3
+run_name: delightful-gnat-172
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221532424
+status: 3
+tags: []
+user_id: mayanktamakuwala

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/356f347f8a784e4ebeb7d951f1a61e7d/artifacts
+end_time: 1762221496613
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 356f347f8a784e4ebeb7d951f1a61e7d
+run_name: mercurial-yak-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221487340
+status: 3
+tags: []
+user_id: mayanktamakuwala

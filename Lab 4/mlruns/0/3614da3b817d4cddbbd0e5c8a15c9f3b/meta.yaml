@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/3614da3b817d4cddbbd0e5c8a15c9f3b/artifacts
+end_time: 1762222793118
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3614da3b817d4cddbbd0e5c8a15c9f3b
+run_name: bustling-conch-213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222783797
+status: 3
+tags: []
+user_id: mayanktamakuwala

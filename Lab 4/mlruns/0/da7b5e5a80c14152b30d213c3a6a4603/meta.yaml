@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/da7b5e5a80c14152b30d213c3a6a4603/artifacts
+end_time: 1762222717963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da7b5e5a80c14152b30d213c3a6a4603
+run_name: upset-bat-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222708321
+status: 3
+tags: []
+user_id: mayanktamakuwala

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/3339be5710f14245b97599ee10940f22/artifacts
+end_time: 1762221586515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3339be5710f14245b97599ee10940f22
+run_name: traveling-worm-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221577577
+status: 3
+tags: []
+user_id: mayanktamakuwala

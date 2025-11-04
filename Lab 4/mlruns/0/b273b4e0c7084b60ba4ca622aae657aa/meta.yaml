@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/b273b4e0c7084b60ba4ca622aae657aa/artifacts
+end_time: 1762222740913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b273b4e0c7084b60ba4ca622aae657aa
+run_name: capable-pug-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762222731396
+status: 3
+tags: []
+user_id: mayanktamakuwala

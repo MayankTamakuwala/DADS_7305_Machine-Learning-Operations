@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/mayanktamakuwala/Documents/PHI/GitHub/DADS_7305_Machine-Learning-Operations/Lab%204/mlruns/0/1aa94d054361497f95f58b0c1a71c30d/artifacts
+end_time: 1762221604277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1aa94d054361497f95f58b0c1a71c30d
+run_name: persistent-ox-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762221596877
+status: 3
+tags: []
+user_id: mayanktamakuwala
