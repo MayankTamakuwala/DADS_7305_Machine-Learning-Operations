@@ -1,5 +1,5 @@
 # Virtual environment
-.venv/
+.venv*
 venv/
 ENV/
 
@@ -17,3 +17,6 @@ __pycache__/
 *.pth
 *.h5
 *.joblib
+
+*logs
+DS_Store*
