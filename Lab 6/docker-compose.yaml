@@ -1,0 +1,10 @@
+services:
+  breast-cancer-dashboard:
+    build:
+      context: .
+      dockerfile: dockerfile
+    image: breast-cancer-dashboard
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./artifacts:/app/artifacts
