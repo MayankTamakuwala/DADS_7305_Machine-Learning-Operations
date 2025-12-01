@@ -19,4 +19,4 @@ __pycache__/
 *.joblib
 
 *logs
-DS_Store*
+*.DS_Store
